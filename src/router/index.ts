@@ -11,6 +11,11 @@ Vue.use(VueRouter)
     component: Home
   },
   {
+    path: '/spread/:id',
+    name: 'Spread',
+    component: Home
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting

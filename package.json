@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@grapecity/spread-excelio": "^13.1.2",
+    "@grapecity/spread-sheets-vue": "^13.1.2",
+    "element-ui": "^2.13.2",
+    "file-saver": "^2.0.2",
     "vue": "^2.6.11",
+    "vue-property-decorator": "^8.4.2",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
